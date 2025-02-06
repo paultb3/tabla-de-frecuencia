@@ -2,7 +2,7 @@
 
 V1.0
 
-![Empresa encargada](./src/img/FORGE_FINL.png))
+![Empresa encargada](./src/img/FORGE_FINL.png)
 
 ## Tecnologías Utilizadas
 
@@ -37,9 +37,9 @@ V1.0
     python nombre_del_archivo.py 
     
 ## NOTA
-    - Al ejecutar el archivo se generara un archivo con excel que almacenara la tabla de frecuencia generada 
-    - Al mismo momento tambien se generara una imagen de la grafica
-    - La primera version de este programa solo admite el tratamiento de variables de tipo cualitativo
+    - Al ejecutar el archivo se generara un archivo con excel que almacenara la tabla de frecuencia generada. 
+    - Al mismo momento tambien se generara una imagen de la grafica.
+    - La primera version de este programa solo admite el tratamiento de variables de tipo cualitativo.
 
 ## CONTRIBUCIONES
-    - es necesario implemntar funciones y modulos para procesar variables cuantitativa continuas
+    - Es necesario implementar funciones y modulos para procesar variables cuantitativas continuas
