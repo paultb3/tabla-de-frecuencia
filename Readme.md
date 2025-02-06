@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# ANALIZADOR DE TABLAS DE FRECUENCIA
 
-ANALIZAR TABLA DE FRECUENCIA V1.0
+V1.0
 
 ![Empresa encargada](./src/img/FORGE_FINL.png))
 
