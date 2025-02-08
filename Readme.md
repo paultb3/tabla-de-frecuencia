@@ -43,3 +43,5 @@ V1.0
 
 ## CONTRIBUCIONES
     - Es necesario implementar funciones y modulos para procesar variables cuantitativas continuas
+    - Si deseas participar en el proyecto contactanos
+    - L nuefva funcionalidad a implementar es una interfaz grafica que se amigable para los usarios
